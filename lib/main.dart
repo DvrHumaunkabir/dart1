@@ -58,7 +58,7 @@ class HomeActivity extends StatelessWidget{
       
       body: Center(
         child: Text("hello how are kamon Asen kamen Saemnn fdjif fjhewfw"
-            " oeirwjewn  ewjiwe jweojew  ewhjwe ihwerwe ",textAlign: TextAlign.start,maxLines: 2,style: TextStyle(fontSize: 30,fontWeight: FontWeight.bold,decoration: TextDecoration.lineThrough,letterSpacing: 3,wordSpacing: 20,overflow: TextOverflow.ellipsis),),
+            " oeirwjewn  ewjiwe jweojew  ewhjwe ihwerwe hello ",textAlign: TextAlign.start,maxLines: 2,style: TextStyle(fontSize: 30,fontWeight: FontWeight.bold,decoration: TextDecoration.lineThrough,letterSpacing: 3,wordSpacing: 20,overflow: TextOverflow.ellipsis),),
       ),
 
 
